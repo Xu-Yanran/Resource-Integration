@@ -7,4 +7,3 @@
 - [Berkeley Courses](https://github.com/Xu-Yanran/Resource-Integration/tree/master/Resources/Berkeley_Courses)
 - [V-REP](https://github.com/Xu-Yanran/Resource-Integration/tree/master/Resources/V-REP)
 - [Julia](https://github.com/Xu-Yanran/Resource-Integration/tree/master/Resources/Julia)
-
